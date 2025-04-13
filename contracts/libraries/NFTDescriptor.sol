@@ -7,9 +7,9 @@ import '@uniswap/v3-core/contracts/libraries/TickMath.sol';
 import '@uniswap/v3-core/contracts/libraries/BitMath.sol';
 import '@uniswap/v3-core/contracts/libraries/FullMath.sol';
 import '@openzeppelin/contracts/utils/Strings.sol';
-import 'base64-sol/base64.sol';
 import './SafeMath.sol';
 import './SignedSafeMath.sol';
+import './base64.sol';
 import './HexStrings.sol';
 import './NFTSVG.sol';
 
